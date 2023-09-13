@@ -1,7 +1,8 @@
 # React ReduxToolkit CRUD APP
 
-complete source of CRUD APP React ReduxToolkit 
-Clone | Zip | Compare
-
+• In this project we performs CRUD operation
+(create,read,update,delete) with redux toolkit in ourreact app.
+• Through this we can post ,create and delete the posts as basic
+functionality
 
 
